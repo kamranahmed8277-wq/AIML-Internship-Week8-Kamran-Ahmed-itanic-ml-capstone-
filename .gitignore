@@ -1,0 +1,37 @@
+# Byte-compiled / virtual environment
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Data files (do not commit raw data)
+data/
+*.csv
+
+# Model files (do not commit large binaries)
+*.pkl
+*.joblib
+*.h5
+*.pb
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Reports with large images (optional – you can include PNGs if small)
+# reports/*.png
+# (but we want to include PNGs for the dashboard, so we might keep them)
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,5 @@
+Model Comparison (ROC-AUC):
+Logistic Regression: 0.8704
+Random Forest: 0.8475
+Gradient Boosting: 0.8323
+Best: Logistic Regression (0.8704)
