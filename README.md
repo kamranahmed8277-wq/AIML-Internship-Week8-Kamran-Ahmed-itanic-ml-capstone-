@@ -233,9 +233,9 @@ The model reflects the historical biases of the Titanic disaster – women and f
 
 ### Version & Author
 - **Version:** 1.0.0
-- **Author:** [Your Name]
+- **Author:** Kamran Ahmed
 - **Institution:** AI/ML Internship Program, Week 8 Capstone
-- **Contact:** [your.email@example.com]
+- **Contact:** [Kamran.ahmed8277@gmail.com]
 
 ---
 
