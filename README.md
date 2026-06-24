@@ -1,8 +1,4 @@
-Below is the complete, **copy‑paste ready** `README.md` file. I’ve fixed all formatting issues – the architecture diagram is now inside a proper code block, bullet lists are correctly rendered, and the image path has been corrected. Just copy the entire block below, save it as `README.md`, and commit it to your repository.
 
----
-
-```markdown
 # 🚢 Titanic Survival Prediction – End‑to‑End ML Capstone
 
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://python.org)
